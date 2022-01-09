@@ -1,9 +1,5 @@
-# Pacmen Project
-This Project creates PacMen on demand. These PacMen are made move across the page. The PacMen created moves in different velocities.
-
-#### Steps to Run the Project
-Step 1 : Click the "Add PacMen" button, to create a new PacMen which appears at the random position on the screen.
-Step 2 : Click the "Start Game" button, to move the PacMen or PacMan created at the random velocity on the screen.
+# PacMan Movement
+In ths Project , The 4 different images of the PacMan at the same time.then , it start moving at the starter of the screen x-axis.PacMan reverse his trajectory once the PacMan image hits the edge of the screen on the x-axis. Runs this fumction repeatedly in every 200 milliseconds.
 
 #### Future Improvement
-This Project can be further enhanced adding different PacMen style with more animation.
+This project can be further enhanced by addig the PacMan into a specific area of the screen and moves the PacMan to random locations.
